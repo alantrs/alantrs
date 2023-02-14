@@ -3,7 +3,7 @@
 📚 Atualmente sou estudante de tecnologia em Banco de dados
 🏫 FATEC - SP
 
-# 📊 GitHub Stats:
+
 <div>
   <a href="https://github.com/alantrs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alantrs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
