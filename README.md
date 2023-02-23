@@ -1,7 +1,6 @@
 ### Olá, sou o Alan  👋
 
-📚 Atualmente sou estudante de tecnologia em Banco de dados
-🏫 FATEC - SP
+Desenvolvedor back-end com experiêcia em java, spring boot e conhecimentos em bancos de dados relacionais postgreSQL e Oracle.
 
 
 <div>
