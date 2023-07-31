@@ -1,6 +1,6 @@
 ### Olá, sou o Alan  👋
 
-> Back-end | Java | Oracle | MySQL | PostgreSQL
+> Back-end | Java | Spring | Oracle | MySQL
 
 <h3>🚀 Habilidades</h3>
 <ul>
