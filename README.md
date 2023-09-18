@@ -8,15 +8,6 @@
   <li>Administração e gerenciamento de banco de dados Oracle, MySQL e PostgreSQL</li>
 </ul>
 
-<h3>👥 Equipe de Desenvolvimento - CarcaraTec</h3>
-<p>Faço parte de uma equipe de desenvolvimento de software apaixonada por tecnologia e inovação. Já realizamos projetos para empresas de grande nome no mercado, como <a href="https://www.domrock.net/">Dom Rock</a> e <a href="https://www.iacit.com.br/">Iacit</a>, além de estarmos trabalhando em um projeto para uma das maiores empresas do ramo da aviação do mundo, <a href="https://embraer.com/global/en">Embraer</a>.</p>
-<p>Para ver os projetos já concluídos e acompanhar nosso projeto com a Embraer, acesse nosso perfil no GitHub:</p>
-<p align="center">
-  <a href="https://github.com/CarcaraTec">
-    <img src="https://github.com/CarcaraTec/CarcaraTec/blob/main/images/carcara_logo.png?raw=true" alt="CarcaraTec" height="150"/>
-  </a>
-</p>
-
 
 <div align="center">
   <a href="https://github.com/alantrs">
